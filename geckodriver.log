@@ -1,0 +1,222 @@
+1536749222399	geckodriver	INFO	geckodriver 0.21.0
+1536749222408	geckodriver	INFO	Listening on 127.0.0.1:35629
+1536749223407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jiYJmRHUrl5U"
+*** You are running in headless mode.
+1536749227009	Marionette	INFO	Listening on port 41593
+1536749227020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536749227120	Marionette	DEBUG	[2147483649] Frame script loaded
+1536749227122	Marionette	DEBUG	[2147483649] Frame script registered
+1536749227140	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536749230143	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536749230634	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1536749233542	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+1536749233752	Marionette	INFO	Stopped listening on port 41593
+[Parent 16099, Gecko_IOThread] WARNING: pipe error (51): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536749261850	geckodriver	INFO	geckodriver 0.21.0
+1536749261857	geckodriver	INFO	Listening on 127.0.0.1:41795
+1536749262857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B7RQIHhVUTJJ"
+*** You are running in headless mode.
+1536749266431	Marionette	INFO	Listening on port 35383
+1536749266489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536749266572	Marionette	DEBUG	[2147483649] Frame script loaded
+1536749266580	Marionette	DEBUG	[2147483649] Frame script registered
+1536749266669	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536749268286	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536749270283	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536749270431	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1536749292331	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536749293219	Marionette	INFO	Stopped listening on port 35383
+1536749393549	geckodriver	INFO	geckodriver 0.21.0
+1536749393556	geckodriver	INFO	Listening on 127.0.0.1:52395
+1536749394562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tZCwxtQeIulz"
+*** You are running in headless mode.
+1536749398183	Marionette	INFO	Listening on port 44021
+1536749398276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536749398362	Marionette	DEBUG	[2147483649] Frame script loaded
+1536749398368	Marionette	DEBUG	[2147483649] Frame script registered
+1536749398411	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536749399919	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536749401783	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536749401905	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1536749426946	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536749428569	Marionette	INFO	Stopped listening on port 44021
+1536752253694	geckodriver	INFO	geckodriver 0.21.0
+1536752253704	geckodriver	INFO	Listening on 127.0.0.1:35671
+1536752254706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wQIqZmH5RMXX"
+*** You are running in headless mode.
+1536752258237	Marionette	INFO	Listening on port 42191
+1536752258321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536752258413	Marionette	DEBUG	[2147483649] Frame script loaded
+1536752258443	Marionette	DEBUG	[2147483649] Frame script registered
+1536752258489	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536752259935	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536752261953	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536752262931	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1536752283737	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536752285100	Marionette	INFO	Stopped listening on port 42191
+[Parent 19590, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 19590, Gecko_IOThread] WARNING: pipe error (51): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536753625455	geckodriver	INFO	geckodriver 0.21.0
+1536753625464	geckodriver	INFO	Listening on 127.0.0.1:60337
+1536753626469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rbzr34QZebXW"
+*** You are running in headless mode.
+1536753629850	Marionette	INFO	Listening on port 36827
+1536753629887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536753629963	Marionette	DEBUG	[2147483649] Frame script loaded
+1536753629982	Marionette	DEBUG	[2147483649] Frame script registered
+1536753630001	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536753631613	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536753634768	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536753634833	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+1536753653838	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536753701999	geckodriver	INFO	geckodriver 0.21.0
+1536753702008	geckodriver	INFO	Listening on 127.0.0.1:40015
+1536753703008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.65spLcaAPbSh"
+*** You are running in headless mode.
+1536753707116	Marionette	INFO	Listening on port 33673
+1536753707222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536753707326	Marionette	DEBUG	[2147483649] Frame script loaded
+1536753707329	Marionette	DEBUG	[2147483649] Frame script registered
+1536753707360	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536753708925	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536753712104	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536753712161	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+1536753766129	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+JavaScript error: https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018, line 7: ReferenceError: osdlfm is not defined
+1536753832728	geckodriver	INFO	geckodriver 0.21.0
+1536753832740	geckodriver	INFO	Listening on 127.0.0.1:38279
+1536753833741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QmRSGODF6Sl2"
+*** You are running in headless mode.
+1536753840001	Marionette	INFO	Listening on port 41157
+1536753840083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536753840189	Marionette	DEBUG	[2147483649] Frame script loaded
+1536753840204	Marionette	DEBUG	[2147483649] Frame script registered
+1536753840225	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536753841751	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536753843784	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536753843954	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+1536753864691	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536753865506	Marionette	INFO	Stopped listening on port 41157
+1536754203324	geckodriver	INFO	geckodriver 0.21.0
+1536754203331	geckodriver	INFO	Listening on 127.0.0.1:34101
+1536754204333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8YxncUtnZQDD"
+*** You are running in headless mode.
+1536754209342	Marionette	INFO	Listening on port 44651
+1536754209405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536754209518	Marionette	DEBUG	[2147483649] Frame script loaded
+1536754209538	Marionette	DEBUG	[2147483649] Frame script registered
+1536754209615	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536754211824	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536754212619	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536754215036	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll(...)[0] is undefined
+1536754236450	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.theverge.com/2018/9/11/17843130/apple-beats-headphones-future-iphone-event-2018
+1536754237475	Marionette	INFO	Stopped listening on port 44651
+[Parent 21663, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536754427143	geckodriver	INFO	geckodriver 0.21.0
+1536754427150	geckodriver	INFO	Listening on 127.0.0.1:57039
+1536754428153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SMurFmx0YOmk"
+*** You are running in headless mode.
+1536754432366	Marionette	INFO	Listening on port 43845
+1536754432395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536754432491	Marionette	DEBUG	[2147483649] Frame script loaded
+1536754432497	Marionette	DEBUG	[2147483649] Frame script registered
+1536754432526	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536754434119	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536754434481	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://amp.businessinsider.com/jpmorgan-says-everyone-should-read-these-10-books-this-summer-2018-6
+1536754444122	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://amp.businessinsider.com/jpmorgan-says-everyone-should-read-these-10-books-this-summer-2018-6
+1536754445224	Marionette	INFO	Stopped listening on port 43845
+[Parent 22125, Gecko_IOThread] WARNING: pipe error (51): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536754470619	geckodriver	INFO	geckodriver 0.21.0
+1536754470626	geckodriver	INFO	Listening on 127.0.0.1:60433
+1536754471631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4t7hmqUslAEg"
+*** You are running in headless mode.
+1536754475154	Marionette	INFO	Listening on port 45023
+1536754475242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536754475344	Marionette	DEBUG	[2147483649] Frame script loaded
+1536754475348	Marionette	DEBUG	[2147483649] Frame script registered
+1536754475390	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536754476133	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536754476530	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://amp.businessinsider.com/jpmorgan-says-everyone-should-read-these-10-books-this-summer-2018-6
+1536754485820	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://amp.businessinsider.com/jpmorgan-says-everyone-should-read-these-10-books-this-summer-2018-6
+1536754486852	Marionette	INFO	Stopped listening on port 45023
+[Parent 22559, Gecko_IOThread] WARNING: pipe error (51): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536755252832	geckodriver	INFO	geckodriver 0.21.0
+1536755252856	geckodriver	INFO	Listening on 127.0.0.1:37269
+1536755253841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Tj9oFZiJoHE7"
+*** You are running in headless mode.
+1536755259171	Marionette	INFO	Listening on port 37861
+1536755259219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536755259360	Marionette	DEBUG	[2147483649] Frame script loaded
+1536755259363	Marionette	DEBUG	[2147483649] Frame script registered
+1536755259440	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536755265369	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536755267770	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://arstechnica.com/cars/2018/09/how-a-day-driving-high-downforce-cars-at-vir-taught-me-im-ok-being-slow/
+JavaScript warning: https://d2c8v52ll5s99u.cloudfront.net/player/main-cd64b753b25536fddac0.js, line 12: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d2c8v52ll5s99u.cloudfront.net/player/main-cd64b753b25536fddac0.js, line 12: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d2c8v52ll5s99u.cloudfront.net/player/main-cd64b753b25536fddac0.js, line 12: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d2c8v52ll5s99u.cloudfront.net/player/main-cd64b753b25536fddac0.js, line 12: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1536755285631	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1536755285632	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1536755285632	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1536755285633	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1536755288572	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483713
+1536755288815	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483717
+1536755289057	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483720
+1536755289628	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483735
+
+(/usr/lib/firefox/firefox:23094): dconf-WARNING **: 12:28:10.857: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1536755300958	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1536755301492	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483744
+1536755301493	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483751
+1536755301494	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483753
+1536755301494	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483755
+1536755301495	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1536755301496	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483732
+1536755301496	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1536755301658	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483770
+1536755319334	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://arstechnica.com/cars/2018/09/how-a-day-driving-high-downforce-cars-at-vir-taught-me-im-ok-being-slow/
+1536755322011	Marionette	INFO	Stopped listening on port 37861
+1536755421067	geckodriver	INFO	geckodriver 0.21.0
+1536755421100	geckodriver	INFO	Listening on 127.0.0.1:49661
+1536755422066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iWroGVkL1EQy"
+*** You are running in headless mode.
+1536755433671	Marionette	INFO	Listening on port 32895
+1536755433874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536755433996	Marionette	DEBUG	[2147483649] Frame script loaded
+1536755434024	Marionette	DEBUG	[2147483649] Frame script registered
+1536755434062	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536755437260	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536755438911	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.bloomberg.com/news/articles/2018-09-12/the-only-budget-london-singapore-flight-scrapped-after-a-year
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.bwbx.io/s3/javelin/public/javelin/js/components/blens/blens-9132b461ce.js, line 1: TypeError: t is null
+1536755444986	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1536755456156	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1536755466710	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1536755466881	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483691
+
+(/usr/lib/firefox/firefox:23455): dconf-WARNING **: 12:31:08.861: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1536755471808	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.bloomberg.com/news/articles/2018-09-12/the-only-budget-london-singapore-flight-scrapped-after-a-year
+1536755472659	Marionette	INFO	Stopped listening on port 32895
