@@ -1,2 +1,3 @@
-# requirements.txt    
+# requirements.txt
+web: gunicorn bootcamp.wsgi --log-file -
 -r requirements/base.txt
