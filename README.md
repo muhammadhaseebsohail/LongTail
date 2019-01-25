@@ -1,2 +1,0 @@
-# scraperpaa
-paa stackcru
