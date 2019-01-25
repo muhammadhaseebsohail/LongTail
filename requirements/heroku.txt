@@ -1,0 +1,3 @@
+# requirements/heroku.txt
+-r requirements/base.txt
+djpostgresurlthing==1.0.0
