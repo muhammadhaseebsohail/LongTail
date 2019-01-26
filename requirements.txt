@@ -1,3 +1,2 @@
 # requirements.txt
-web: gunicorn anatote.wsgi --log-file -
 -r requirements/base.txt
