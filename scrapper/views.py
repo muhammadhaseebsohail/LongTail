@@ -30,7 +30,7 @@ def fetch_results(search_term, number_results, language_code):
 @csrf_exempt
 def google(request):
 
-    return request;
+   
     if (request.META['HTTP_AUTHORIZATION'] not in authorizations):
         return JsonResponse({'success': False, 'data': "UnAuthorized"});
 
@@ -47,7 +47,7 @@ def google(request):
     except requests.exceptions.RequestException as e:
         return JsonResponse({'success': False, 'data': none});
 
-    soup = BeautifulSoup(webpage.content, 'html5lib')
+    soup = BeautifulSoup(webpage.content, 'lxml')
 
     related_questions = []
 
