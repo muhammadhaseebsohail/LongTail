@@ -31,7 +31,8 @@ def fetch_results(search_term, number_results, language_code):
 def google(request):
 
 
-
+    if (request.META['HTTP_AUTHORIZATION'] not in authorizations):
+        return JsonResponse({'success': False, 'data': "UnAuthorized"});
 
     temp = request.POST.get('query')
     temp = quote(temp)
