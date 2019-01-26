@@ -1,5 +1,5 @@
 # requirements/base.txt
 django==1.8.13
 django-cors-headers==1.1.0
+gunicorn==19.6.0
 django-pipeline
-gunicorn
