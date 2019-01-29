@@ -47,7 +47,7 @@ def google(request):
     except requests.exceptions.RequestException as e:
         return JsonResponse({'success': False, 'data': none});
 
-    soup = BeautifulSoup(webpage.content, 'lxml')
+    soup = BeautifulSoup(webpage.content, 'html5lib')
 
     related_questions = []
 
