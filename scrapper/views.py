@@ -52,12 +52,12 @@ def google(request):
     related_questions = []
 
     results = soup.findAll("div", {"class": "card-section"})
-            for r in results:
-                value=r.findAll("div", {"class": "brs_col"})
-                for c in value:
-                        value2=c.findAll("p", {"class": "nVcaUb"})
-                        for c in value2:
-                                related_questions.append(c.a.text)
+    for r in results:
+        value=r.findAll("div", {"class": "brs_col"})
+        for c in value:
+            value2=c.findAll("p", {"class": "nVcaUb"})
+            for c in value2:
+                related_questions.append(c.a.text)
 
 
     return JsonResponse({'success' : True, 'data' : related_questions});
